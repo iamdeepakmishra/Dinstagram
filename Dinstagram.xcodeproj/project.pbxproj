@@ -510,13 +510,12 @@
 		003E8F8417210B33008A9E6D /* Adhoc */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer: Deepak Mishra (NKLY5QG9E3)";
+				CODE_SIGN_IDENTITY = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Dinstagram/Dinstagram-Prefix.pch";
 				INFOPLIST_FILE = "Dinstagram/Dinstagram-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "0FB0AD9E-CBBB-4C86-A0DD-41814DF9F37B";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Adhoc;
